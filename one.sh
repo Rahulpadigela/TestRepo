@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-java
-git ansible
-=======
-hello,this is my second file
->>>>>>> task1
+hello this is my second day to learn the new activities from the git tutorials

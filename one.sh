@@ -1,1 +1,1 @@
-hello this is my second day to learn the new activities from the git tutorials
+hello this is my second day to learn the new activities from the git tutorialstodat is the greatest indepedence day so i would like to learn the new things from the today itself

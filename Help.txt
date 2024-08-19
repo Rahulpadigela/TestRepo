@@ -1,1 +1,3 @@
-Hello.Today the day is tuesday and i must leran all the basic git commands.
+iHello.Today the day is tuesday and i must leran all the basic git commands.
+Hello today im going to chrck this command for the git stash
+so tying to get the good example

@@ -1,7 +1,10 @@
 hello
-this file im creating to check out the login details of the branch with new commits
-hello im trying to checkout for the new lines in this area
-here also what im doing is to merge and get the conflicts for the two files which are there in the main are
+this file I'm creating to check out the login details of the branch with the new commits
+hello I'm trying to checkout for the new lines in this area
+here also what I'm doing is to merge and get the conflicts for the two files which are there in the main are
+
 ===========================================
-from here im adding the new lines to get the recovery of merge commits and have look and the end of the scenario
-please you can proceed with the merge commits
+From here I'm adding the new lines to get the recovery of merge commits and have look and the end of the scenario
+please you can proceed with the merge commits.
+
+This is the file we are looking forward to your overall file context and its been a while im looking to new embargo of the new variant and its new looking case of the file infrastructure.

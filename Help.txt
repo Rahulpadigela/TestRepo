@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 Hello.Today the day is tuesday and i must leran all the basic git commands.
-hello todat is the date is aug,16,2024 and im adding some of the lines to check the MV commands
+hello today is the date is aug,16,2024 and im adding some of the lines to check the MV commands
 =======
 iHello.Today the day is tuesday and i must leran all the basic git commands.
 Hello today im going to chrck this command for the git stash
